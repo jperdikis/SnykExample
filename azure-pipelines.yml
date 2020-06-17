@@ -21,4 +21,4 @@ steps:
     dockerImageName: 'my-container-image-name'
     dockerfilePath: 'Dockerfile'
     monitorOnBuild: true
-    failOnIssues: true
+    failOnIssues: false
